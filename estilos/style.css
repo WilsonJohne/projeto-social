@@ -1,0 +1,16 @@
+body{
+    background-image: url(../imagens/fundo-madeira.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div#cel{
+    width: 311px;
+    height: 627px;
+    background-image: url(../imagens/frame-iphone.png);
+    
+    position: relative;
+    top: 50%;
+    bottom: 50%;
+
+}
