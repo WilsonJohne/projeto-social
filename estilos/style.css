@@ -41,4 +41,20 @@ section img{
     width: 50px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px black;
+    box-sizing: border-box;
+    margin: 4px;
 }
+#redes-sociais{
+    text-align: right;
+    
+
+}
+#redes-sociais img {
+    transition: border 1s, transform 1s, box-shadow 1s ;  /* Combine as transições */
+}
+
+#redes-sociais img:hover{
+    border: 1px solid white;
+    transform: translate(-3px, -1px);
+    box-shadow: 1px 1px 20px black;
+} 

@@ -1,0 +1,18 @@
+ *{
+            margin: 0px;
+            padding: 0px;
+        }
+        ::-webkit-scrollbar{
+            width: 0px;
+            height: 0px;
+        }
+        img{
+            width: 100vw;
+        }
+        a{
+            display: block;
+            background-color: red;
+            color: white;
+            text-align: center;
+            
+        }
